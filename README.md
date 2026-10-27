@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/eexe" target="_blank" rel="noopener noreferrer">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/eexe.png" alt="TryHackMe Stats"/>
+    <script src="https://tryhackme.com/badge/t/8d9876d856101d00a301b8b6a8ae69140f9a051200edb750d924143211e71353b5db34d834cff1b85868e2e04211d3df?theme=dark"></script>
   </a>
 </p>
 
